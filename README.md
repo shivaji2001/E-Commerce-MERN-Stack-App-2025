@@ -13,3 +13,8 @@ PORT=8080
 DEV_MODE=DevelopmentMode
 
 JWT_SECRET=
+
+
+
+
+URL For my backend is :- https://e-commerce-mern-stack-app-2025.onrender.com/
